@@ -1,0 +1,39 @@
+/* CSS Document */
+
+#wrapper {background-color:#abd6ff; margin-top:20px; padding-top:10px; border:solid 1px black; width:500px; margin-left:auto; margin-right:auto;}
+
+fieldset {margin-top:5px; background-color:#ebfbfc;}
+
+fieldset legend {color:#412C84; background-color:#ebfbfc; border:solid 1px #200772; padding:2px; font-weight:bold;}
+
+table {margin:5px; padding:5px;}
+
+td {padding:3px;}
+
+.center {text-align:center;}
+
+.required {color:#FF0000;}
+
+#content p {padding-left:10px;}
+
+footer {margin:10px;}
+
+/* CSS Reset */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+form, label,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+/* END CSS Reset*/
